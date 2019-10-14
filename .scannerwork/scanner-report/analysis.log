@@ -1,0 +1,63 @@
+SonarQube plugins:
+  - SonarCSS 1.1.1.1010 (cssfamily)
+  - Svn 1.9.0.1295 (scmsvn)
+  - SonarPLSQL 3.4.1.2576 (plsql)
+  - SonarScala 1.5.0.315 (sonarscala)
+  - SonarC# 7.15.0.8572 (csharp)
+  - Vulnerability Analysis 7.9.0.5105 (security)
+  - SonarJava 5.13.1.18282 (java)
+  - LDAP 2.2.0.608 (ldap)
+  - SonarHTML 3.1.0.1615 (web)
+  - SonarFlex 2.5.1.1831 (flex)
+  - SonarXML 2.0.1.2020 (xml)
+  - SonarTS 1.9.0.3766 (typescript)
+  - SonarVB 7.15.0.8572 (vbnet)
+  - SonarSwift 4.1.0.3087 (swift)
+  - SonarCFamily 6.3.0.11371 (cpp)
+  - SonarPython 1.14.1.3143 (python)
+  - GitHub Authentication for SonarQube 1.5.0.870 (authgithub)
+  - Java Custom Rules 1.0-SNAPSHOT (javacustom)
+  - JaCoCo 1.0.2.475 (jacoco)
+  - SonarGo 1.1.1.2000 (go)
+  - SonarKotlin 1.5.0.315 (kotlin)
+  - SonarRPG 2.3.0.1187 (rpg)
+  - SonarPLI 1.10.0.1880 (pli)
+  - SonarTSQL 1.4.0.3334 (tsql)
+  - SonarVB6 2.6.0.1875 (vb)
+  - SonarApex 1.5.0.315 (sonarapex)
+  - SonarJS 5.2.1.7778 (javascript)
+  - SonarRuby 1.5.0.315 (ruby)
+  - Vulnerability Rules for C# 7.9.0.5105 (securitycsharpfrontend)
+  - Vulnerability Rules for Java 7.9.0.5105 (securityjavafrontend)
+  - License for SonarLint 7.9.1 (license)
+  - SonarCOBOL 4.4.0.3403 (cobol)
+  - Git 1.8.0.1574 (scmgit)
+  - SAML 2.0 Authentication for SonarQube 1.1.0.181 (authsaml)
+  - SonarPHP 3.2.0.4868 (php)
+  - SonarABAP 3.8.0.2034 (abap)
+  - Vulnerability Rules for PHP 7.9.0.5105 (securityphpfrontend)
+Global server settings:
+  - sonar.alm.github.app.id=42702
+  - sonar.alm.github.app.name=Sonar-GitHub
+  - sonar.alm.github.app.privateKeyContent.secured=******
+  - sonar.branch.longLivedBranches.regex=(branch|release)-.*update
+  - sonar.core.id=BF41A1F2-AWwjiMMx_yzL5J1rwssy
+  - sonar.core.startTime=2019-10-11T13:56:18+0200
+  - sonar.license.notifications.remainingLocThreshold=5000
+  - sonar.pullrequest.github.endpoint=https://github.com/amina-boukhris-sonarsource/api/v3
+  - sonar.pullrequest.provider=GitHub
+Project server settings:
+Project scanner properties:
+  - sonar.host.url=http://localhost:9006
+  - sonar.login=******
+  - sonar.password=******
+  - sonar.projectBaseDir=C:\Users\Amina\Documents\TypeScriptSamples-master\TypeScriptSamples-master\amd
+  - sonar.projectKey=TSproject
+  - sonar.projectName=TSproject
+  - sonar.projectVersion=1.0
+  - sonar.scanner.app=ScannerCli
+  - sonar.scanner.appVersion=3.3.0.1492
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=.
+  - sonar.verbose=true
+  - sonar.working.directory=C:\Users\Amina\Documents\TypeScriptSamples-master\TypeScriptSamples-master\amd\.scannerwork

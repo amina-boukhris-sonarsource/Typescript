@@ -1,6 +1,6 @@
 projectKey=TSproject
-serverUrl=http://localhost:9000
-serverVersion=6.7.7.38951
-dashboardUrl=http://localhost:9000/dashboard/index/TSproject
-ceTaskId=AWzTHboPUxk5KAB_zSAC
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWzTHboPUxk5KAB_zSAC
+serverUrl=http://localhost:9006
+serverVersion=7.9.1.27448
+dashboardUrl=http://localhost:9006/dashboard?id=TSproject
+ceTaskId=AW3JYsElDFBw1Lsxj7KL
+ceTaskUrl=http://localhost:9006/api/ce/task?id=AW3JYsElDFBw1Lsxj7KL
